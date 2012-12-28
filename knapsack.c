@@ -1,3 +1,5 @@
+/* Solution to the knapsack problem */
+
 #include<stdio.h>
 
 int max(int a,int b)
